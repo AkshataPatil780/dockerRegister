@@ -49,7 +49,7 @@
         android:layout_height="43dp"
         android:layout_gravity="center"
         android:layout_margin="200dp"
-        android:background="#00FF00"
+        android:background="#ffb6c1"
         android:text="Register" />
 
 
